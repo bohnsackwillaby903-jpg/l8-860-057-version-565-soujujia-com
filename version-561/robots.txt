@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Static HTML sitemap
+Sitemap: sitemap.html
